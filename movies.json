@@ -1,0 +1,401 @@
+[{
+  "_id": {
+    "$oid": "637e707056f6b5233bf988eb"
+  },
+  "path": "atropello-salvador"
+},{
+  "_id": {
+    "$oid": "637e72e556f6b5233bf9893a"
+  },
+  "path": "desencantada"
+},{
+  "_id": {
+    "$oid": "637e753d56f6b5233bf989bc"
+  },
+  "path": "spirited-el-espiritu-de-las-fiestas"
+},{
+  "_id": {
+    "$oid": "637e777156f6b5233bf98a14"
+  },
+  "path": "la-mujer-rey-2022"
+},{
+  "_id": {
+    "$oid": "637e794556f6b5233bf98a55"
+  },
+  "path": "el-tiempo-del-armagedon"
+},{
+  "_id": {
+    "$oid": "637e7b7356f6b5233bf98aa1"
+  },
+  "path": "black-adam"
+},{
+  "_id": {
+    "$oid": "637e99f556f6b5233bf98b36"
+  },
+  "path": "el-guau"
+},{
+  "_id": {
+    "$oid": "637e9b5d56f6b5233bf98b57"
+  },
+  "path": "plan-de-estudios"
+},{
+  "_id": {
+    "$oid": "637e9f79a05d4e93eb158d3f"
+  },
+  "path": "el-pais-de-los-sueños"
+},{
+  "_id": {
+    "$oid": "637ea40ea05d4e93eb158d74"
+  },
+  "path": "navidad-en-la-granja"
+},{
+  "_id": {
+    "$oid": "637ea763a05d4e93eb158dff"
+  },
+  "path": "navidad-contigo-christmas-with-you"
+},{
+  "_id": {
+    "$oid": "637ea960a05d4e93eb158e21"
+  },
+  "path": "la-absoluta"
+},{
+  "_id": {
+    "$oid": "637ead7f70108c57c7243dd5"
+  },
+  "path": "busco-novia-2022"
+},{
+  "_id": {
+    "$oid": "637eafcb70108c57c7243e39"
+  },
+  "path": "los-odiosos-invitados-a-la-boda"
+},{
+  "_id": {
+    "$oid": "637eb21470108c57c7243e78"
+  },
+  "path": "la-historia-de-onetaste"
+},{
+  "_id": {
+    "$oid": "637eb47070108c57c7243ecc"
+  },
+  "path": "minions-y-sus-amigos-v-2"
+},{
+  "_id": {
+    "$oid": "637fb93470108c57c72442c5"
+  },
+  "path": "yo-soy-vanessa-guillen"
+},{
+  "_id": {
+    "$oid": "637fbc4670108c57c7244305"
+  },
+  "path": "cuando-sea-joven"
+},{
+  "_id": {
+    "$oid": "637fbe1670108c57c7244356"
+  },
+  "path": "sonrie-2022"
+},{
+  "_id": {
+    "$oid": "637fbfaf70108c57c7244380"
+  },
+  "path": "boleto-de-fuga-2022"
+},{
+  "_id": {
+    "$oid": "637fc21670108c57c72443c9"
+  },
+  "path": "alien-sniperess-2022"
+},{
+  "_id": {
+    "$oid": "6380060da274f3aa039a5afd"
+  },
+  "path": "lilo-lilo-el-cocodrilo"
+},{
+  "_id": {
+    "$oid": "6381035fa274f3aa039a5dca"
+  },
+  "path": "un-misterio-de-navidad"
+},{
+  "_id": {
+    "$oid": "63810632a274f3aa039a5e2d"
+  },
+  "path": "guardianes-de-la-galaxia-especial-navidad"
+},{
+  "_id": {
+    "$oid": "63810dbfa274f3aa039a5f67"
+  },
+  "path": "sword-art-online-progressive"
+},{
+  "_id": {
+    "$oid": "6381146ca274f3aa039a6000"
+  },
+  "path": "navidad-en-armonia"
+},{
+  "_id": {
+    "$oid": "6381161ba274f3aa039a6032"
+  },
+  "path": "el-diario-de-noel"
+},{
+  "_id": {
+    "$oid": "638bea9848a1caf989880985"
+  },
+  "path": "trol-2022"
+},{
+  "_id": {
+    "$oid": "638ce7ab48a1caf989880b65"
+  },
+  "path": "la-guerra-del-futuro"
+},{
+  "_id": {
+    "$oid": "638cf797e09fcaeba16b9cf9"
+  },
+  "path": "scrooge-cuento-de-navidad-2022"
+},{
+  "_id": {
+    "$oid": "638cf984e09fcaeba16b9d2d"
+  },
+  "path": "el-amante-de-daly-chatterley"
+},{
+  "_id": {
+    "$oid": "638cfbdce09fcaeba16b9d55"
+  },
+  "path": "matando-el-tiempo"
+},{
+  "_id": {
+    "$oid": "638cfd34e09fcaeba16b9d75"
+  },
+  "path": "mañana-es-hoy"
+},{
+  "_id": {
+    "$oid": "638cff6ce09fcaeba16b9da5"
+  },
+  "path": "el-diario-de-greg-la-ley-de-rodrick"
+},{
+  "_id": {
+    "$oid": "638fd9dae09fcaeba16ba240"
+  },
+  "path": "fuerza-bruta"
+},{
+  "_id": {
+    "$oid": "638fdeb0e09fcaeba16ba27c"
+  },
+  "path": "la-mensajera-de-navidad"
+},{
+  "_id": {
+    "$oid": "63922d22e09fcaeba16ba99e"
+  },
+  "path": "ardiente-paciencia"
+},{
+  "_id": {
+    "$oid": "63923adbe09fcaeba16bab92"
+  },
+  "path": "matrimillas"
+},{
+  "_id": {
+    "$oid": "63923db3e09fcaeba16babb5"
+  },
+  "path": "mision-sky-nebo"
+},{
+  "_id": {
+    "$oid": "63924131e09fcaeba16bacca"
+  },
+  "path": "she-said"
+},{
+  "_id": {
+    "$oid": "63938eb0e09fcaeba16bb248"
+  },
+  "path": "algo-para-tiffany"
+},{
+  "_id": {
+    "$oid": "63938fcde09fcaeba16bb268"
+  },
+  "path": "emancipacion"
+},{
+  "_id": {
+    "$oid": "639391d7e09fcaeba16bb2a4"
+  },
+  "path": "pinocho-guillermo-del-toro"
+},{
+  "_id": {
+    "$oid": "63939398e09fcaeba16bb2d1"
+  },
+  "path": "dragon-ball-super-hero"
+},{
+  "_id": {
+    "$oid": "63939652e09fcaeba16bb309"
+  },
+  "path": "una-navidad-en-hollywook"
+},{
+  "_id": {
+    "$oid": "6393bd67e09fcaeba16bb399"
+  },
+  "path": "noche-en-el-museo-el--retorno-de-kahmunrah"
+},{
+  "_id": {
+    "$oid": "6393bf2fe09fcaeba16bb3e7"
+  },
+  "path": "top-gun-maverick"
+},{
+  "_id": {
+    "$oid": "6393c117e09fcaeba16bb416"
+  },
+  "path": "huevitos-congelados"
+},{
+  "_id": {
+    "$oid": "6393c2b8e09fcaeba16bb433"
+  },
+  "path": "reyes-contra-santa"
+},{
+  "_id": {
+    "$oid": "63951156e09fcaeba16bbb3c"
+  },
+  "path": "capitan-carver"
+},{
+  "_id": {
+    "$oid": "639512fae09fcaeba16bbb69"
+  },
+  "path": "el-misterio-de-la-tierra-de-los-dulces"
+},{
+  "_id": {
+    "$oid": "639514eae09fcaeba16bbb95"
+  },
+  "path": "topside"
+},{
+  "_id": {
+    "$oid": "6395169fe09fcaeba16bbbd2"
+  },
+  "path": "los-reglones-torcidos-de-dios"
+},{
+  "_id": {
+    "$oid": "639518e3e09fcaeba16bbc04"
+  },
+  "path": "pero-que-nos-has-hecho"
+},{
+  "_id": {
+    "$oid": "6397b460e09fcaeba16bc180"
+  },
+  "path": "una-noche-descontrolada-tiempo-de-navidad"
+},{
+  "_id": {
+    "$oid": "6397b9a8e09fcaeba16bc1c3"
+  },
+  "path": "tu-navidad-o-la-mia"
+},{
+  "_id": {
+    "$oid": "6397bbede09fcaeba16bc1e6"
+  },
+  "path": "un-milagro-navideño-para-daisy"
+},{
+  "_id": {
+    "$oid": "6397c089e09fcaeba16bc234"
+  },
+  "path": "sonic-2-pelicula"
+},{
+  "_id": {
+    "$oid": "6397c42de09fcaeba16bc273"
+  },
+  "path": "7-dias-contigo"
+},{
+  "_id": {
+    "$oid": "6398fcc5e09fcaeba16bc5e0"
+  },
+  "path": "desaparecido-a-medianoche"
+},{
+  "_id": {
+    "$oid": "6398fe2ce09fcaeba16bc5fd"
+  },
+  "path": "navidad-sin-filtro-2022"
+},{
+  "_id": {
+    "$oid": "6399039ee09fcaeba16bc626"
+  },
+  "path": "mad-heidi"
+},{
+  "_id": {
+    "$oid": "639907a5e09fcaeba16bc657"
+  },
+  "path": "a-plena-luz-el-caso-narvarte"
+},{
+  "_id": {
+    "$oid": "63990bb0e09fcaeba16bc66b"
+  },
+  "path": "un-like-de-navidad"
+},{
+  "_id": {
+    "$oid": "6399102fe09fcaeba16bc6b7"
+  },
+  "path": "el-telefono-negro"
+},{
+  "_id": {
+    "$oid": "639916ade09fcaeba16bc70f"
+  },
+  "path": "libelulas-2022"
+},{
+  "_id": {
+    "$oid": "639a4d17e09fcaeba16bc8fa"
+  },
+  "path": "los-espiritus-de-la-isla"
+},{
+  "_id": {
+    "$oid": "639a5286e09fcaeba16bc918"
+  },
+  "path": "solo-amor-y-mil-canciones"
+},{
+  "_id": {
+    "$oid": "639a54d4e09fcaeba16bc93b"
+  },
+  "path": "hasta-los-huesos"
+},{
+  "_id": {
+    "$oid": "639a56a7e09fcaeba16bc960"
+  },
+  "path": "navidad-en-vivo"
+},{
+  "_id": {
+    "$oid": "639a6295e09fcaeba16bc9d1"
+  },
+  "path": "zona-414"
+},{
+  "_id": {
+    "$oid": "639a64fae09fcaeba16bc9f0"
+  },
+  "path": "en-el-valle-de-los-canguros"
+},{
+  "_id": {
+    "$oid": "639a669ce09fcaeba16bca19"
+  },
+  "path": "presencias-malditas"
+},{
+  "_id": {
+    "$oid": "639a696ee09fcaeba16bca52"
+  },
+  "path": "todavia-creo-en-santa"
+},{
+  "_id": {
+    "$oid": "639a6a85e09fcaeba16bca76"
+  },
+  "path": "mickey-salva-la-navidad"
+},{
+  "_id": {
+    "$oid": "639b5bfbe09fcaeba16bccc7"
+  },
+  "path": "los-fabelmans"
+},{
+  "_id": {
+    "$oid": "639b5d86e09fcaeba16bccf3"
+  },
+  "path": "the-big-4"
+},{
+  "_id": {
+    "$oid": "639f8e93b098b9bcaf995eca"
+  },
+  "path": "los-reyes-magos-la-verdad"
+},{
+  "_id": {
+    "$oid": "639f8ff6b098b9bcaf995ef7"
+  },
+  "path": "clases-particulares"
+},{
+  "_id": {
+    "$oid": "639f9138b098b9bcaf995f2e"
+  },
+  "path": "nanny-2022"
+}]

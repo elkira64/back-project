@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bajandopelis",
+  "private_key_id": "328dadff69446c1fcf451192a8cd7bb57885a01c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3swReAU28QWTL\n5pu/pAWq/uCILy8VaWD/xd5tYZ7iPsyUw7YUXQh+9Ms6aNq+svFxUSTaYLrs4Hmt\nH1LcqiejhoV4a86wPzbiCZqxdDwECAA7afO2a0JAfwPzal/WJs6ARZewAzSDVpsk\nnDGXtOuwM9KX9DOeBSNsUQoqCXhznTm2zFsxV8VDHz1kTnb+C6U1gDurVkB8EWih\nTDgqNFMSiW8puYzzKenI7H18sn/QD4NVfwkpl2QnBjLcMhB2HsG2OLNIzZF3Ges7\nQ4hZCxMZqW0f+v34z+c+w6j3JWOeLpoNhfgTUTwk5DlQAowESveuN4jUSo0AHSGU\nPuHZWJiBAgMBAAECggEAAIonUDmCsXvLkormvGu8Z6baWPMSyU5JGnJB1a5dpKhy\nolmfduiJr0ILyGv9P8X7vimC5Tx3Ux2jFN9ml2LtdTI+kVKngaJ7aENHBdg/moNN\noR8N6ARhVko7PDVs4vaj6Nn/fL0bK/s6vyMhdQqrPjYeQ1uUhN1q7+EecY574OLR\nKuUQ2W8MLRloCn0ThPXPBhk+uHeSClfgyrRh0DS5kz5xQdPloYEbj4wWOcW7Cuqf\nOb81UiIUwKDvjf/NhQXcY5GbKC+Bbg0KsCYHfupvdlXCq9GboyLsPAGDpyaPaUMv\nQUVFcDMPMNJVehFwgoExlGUbYht4+MTC6A6oJPSsAQKBgQD32IQB3su/1SCeDbyF\np5wMp7TX+sdSSoF85laoRWmHf/KnydHUms22Q5JxF0oxdS/MBGC7Z+H1uLcqb1C8\nCrKbG1awUrEzeyTIheKMtk82PIEXsexy09phUijzqdyYP1nyVksEF/IEh79kSWxS\n9yfuKptkSb/R5w2U2xzQULvdAQKBgQC9vjoQG+CZUyAiaD1qfthT03OfkxXMHHqs\nq2U6rcS6k+/Sm74Op5KsEG/VJ0M9FOPD9OuFRdlRZfS0foV5tynzlwZxbvnu90zI\nXxProNS059TD2iK2iCVwFGmh2B20y1xsRfeRwEnhjWeVNTxovmqvT+u347IkMaPn\n4SV0+787gQKBgGTdEYPtVsAADWElN/awqnof+iH3ZgygU6gv2U5ryTGiqW8NXD6I\nrXUidMNfdgtApK4DjhZWhYfJn4k+ef284MjszE+/p2vLDsIocnVPcFcjMmohN5fX\njcUTeaUIGMVA6usLoUXONOkREZvPoaz19qMfZdPfi5fxzv4oWcaRRJMBAoGBAJAL\njxbVow+jPJ0CV8W2YFJbD8cQKZcX88WMJMCEVPpz/rf7hjCn5MB9hfji4rfHWRZV\npEs7+LxD058HAhuiAtYrTDfnURSqZ38iNwRFx9VCvpKk0n+SIiHRTVQRtpOfYx3L\njCP5P91ctUtf6+l0zZcj7EZhNMcnbFBH62DBEa+BAoGBAKIBsbyuUumlDHfRko2T\nNzZsBDtxnHx2DQ/ECfIGuUUGrOgfcHVy2Fx6bo8qIqtWWN4vDF++2bHv2MK8CMKa\na9e/pI44ixj2MDJ5J2L3l84J494QjRI/0PGxR6jczShmi9pcdEMZIXmvphIrl0+/\nDxx8HCdp968j5LD4JfrImKk/\n-----END PRIVATE KEY-----\n",
+  "client_email": "bajandopelis@bajandopelis.iam.gserviceaccount.com",
+  "client_id": "100422783881530332473",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bajandopelis%40bajandopelis.iam.gserviceaccount.com"
+}
